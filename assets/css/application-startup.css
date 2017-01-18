@@ -2,9 +2,18 @@
 .app-navbar {
   font-weight: 500;
   letter-spacing: .05em;
-  position: absolute;
+  position: fixed;
+  background-color: rgb(18, 133, 250);
 }
 
+.navbar{
+    float: right;
+    text-transform: uppercase;
+}
+.nav-logo{
+  width: 100px;
+  height: auto;
+}
 
 /* header block */
 .z {
@@ -72,7 +81,7 @@
 
 /* brand ribbon block */
 .ae {
-  background: #2595FF;
+  background: #E7E7E7;
 }
 .ae .e {
   padding-left: 0;
@@ -97,6 +106,18 @@
   }
 }
 
+.porto-digital{
+    width: 200px;
+    height: auto;
+}
+
+.de-gusta{
+    width: 85px;
+    height: auto;
+}
+.logo-jump{
+    width: 125px;
+}
 
 /* price plan block */
 .aj {

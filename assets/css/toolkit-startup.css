@@ -1816,6 +1816,11 @@ pre code {
     float: left;
     width: 50%;
   }
+  
+  .fz.gt{
+    float: left;
+    width: 60%;
+  }
   .gu {
     float: left;
     width: 58.33333%;
